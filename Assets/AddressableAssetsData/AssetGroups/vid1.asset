@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: vid1
+  m_EditorClassIdentifier: 
+  m_GroupName: vid1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3d2fe9496f9564856864f4da64b391a2
+  m_SerializeEntries:
+  - m_GUID: a52b00a8afc674da3bac054e11f0e307
+    m_Address: Assets/VideoOgv/vid1.ogv
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 52545bd1174144ba99428db6b4c20859, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9a485a52978294c768723543464f4775, type: 2}
+    - {fileID: 11400000, guid: 4dadf021b4f714f218bd9d3d7597f2a5, type: 2}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "485781964167",
+    "firebase_url": "https://test-minipong-default-rtdb.firebaseio.com",
+    "project_id": "test-minipong",
+    "storage_bucket": "test-minipong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485781964167:android:2c37547364c06126047f22",
+        "android_client_info": {
+          "package_name": "com.test.minipong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ZHE8KGPyvQaBfpmtzneloQSbQIljQbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

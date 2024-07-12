@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311717467043",
+    "project_id": "minipong2",
+    "storage_bucket": "minipong2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311717467043:android:c39443dc90234b1e5dc016",
+        "android_client_info": {
+          "package_name": "com.test.minipong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJuE9F6Sk2y5goJjKRaBrwbB62UdEoowI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
